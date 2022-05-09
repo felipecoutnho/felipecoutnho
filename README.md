@@ -13,7 +13,7 @@
 <a href="https://t.me/felipecoutnho">
   <img align="left" alt="felipecoutnho Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="hhttps://api.whatsapp.com/send?phone=5511952870735">
+<a href="https://api.whatsapp.com/send?phone=5511952870735">
   <img align="left" alt="felipecoutnho Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <br>
