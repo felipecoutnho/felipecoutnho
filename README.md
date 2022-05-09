@@ -13,6 +13,9 @@
 <a href="https://t.me/felipecoutnho">
   <img align="left" alt="felipecoutnho Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<a href="https://t.me/felipecoutnho">
+  <img align="left" alt="felipecoutnho Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 <br>
 <br>
 💻 Estudando HTML5, CSS3, React, Javascript & Node Js 
