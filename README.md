@@ -6,15 +6,14 @@
   <img align="left" alt="felipecoutnho Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://github.com/felipecoutnho">
-  <img align="left" alt="felipecoutnho  Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <a href="https://t.me/felipecoutnho">
   <img align="left" alt="felipecoutnho Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=5511952870735">
   <img align="left" alt="felipecoutnho Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
+<a href="https://codepen.io/felipecoutnho">
+  <img align="left" alt="felipecoutnho Codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codepen.svg" />
 </a>
 <br>
 <br>
