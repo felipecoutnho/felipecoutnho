@@ -1,8 +1,8 @@
-## Oi, Eu sou [Felipe Coutinho!](https://www.linkedin.com/in/felipe-coutinho-83b837174/) 👋
+## Oi, Eu sou [Felipe Coutinho!](https://www.linkedin.com/in/felipecoutnho/) 👋
 
 
 
-<a href="https://www.linkedin.com/in/felipe-coutinho-83b837174/">
+<a href="https://www.linkedin.com/in/felipecoutnho/">
   <img align="left" alt="felipecoutnho Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
